@@ -1,0 +1,113 @@
+a {
+    color: #8f8f8f;
+    padding-right: 10%; 
+}
+
+body {
+    background-color: #4f8a8b;
+    color: #eeeeee;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+#title-image {
+    position: relative;
+    padding-left: 10%;
+}
+
+.company-name {
+    font-family: 'Montserrat-Bold';
+    font-weight: 3.5rem;
+    padding-left: 10%;
+    text-align: left;
+}
+
+h2 {
+    padding-left: 10%;
+    font-family: 'Montserrat';
+    text-align: left;
+}
+
+.motto {
+    padding-left: 8%;
+    width: 30%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/* Sections */
+.light-section {
+    background-color: #4f8a8b;
+}
+
+.dark-section {
+    background-color: #222831;
+}
+
+/* Navbar */
+.navbar {
+    font-family: 'Ubuntu';
+    padding-bottom: 4.5rem;
+    padding-left: 65%;
+}
+
+/* Knives */
+#knives {
+    padding: 75px;
+    text-align: center;
+}
+
+.knife-column {
+    padding: 3% 2%;
+}
+
+.card-title {
+    font-family: "Montserrat-Bold";
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: rgb(34, 31, 31);
+}
+
+.card-text {
+    font-family: "Montserrat";
+    color: rgb(39, 37, 37);
+}
+
+.pricing {
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+    color: rgb(36, 33, 33);
+}
+
+/* Information */
+
+#information {
+    padding: 2%;
+}
+
+#fish-and-wildlife-seal {
+    width: 10%;
+}
+
+.information-body {
+    text-align: left;
+}
+
+.information-body {
+    width: 60%;
+}
+
+
+/* Footer */
+#footer {
+    text-align: center;
+}
+
+.footer {
+    padding-bottom: 2.5rem;
+    padding-top: 1.5rem;
+}
